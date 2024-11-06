@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/mycontent/standardSurface2.uasset",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/mycontent/blueprints_for_door/BP_Door.uasset",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/mycontent/door.uasset",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/mycontent/frame.uasset",
+				"C:/Users/sohom/Documents/AFT815_Sohom_Das_CA2/AFT815_Sohom_Das/Content/mycontent/standardSurface1.uasset"
 			]
 		}
 	]
